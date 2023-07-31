@@ -1,1 +1,1 @@
-# CabFarePrediction
+The Cab Fare Analysis and Prediction project aims to analyze the relationship between cab fares and weather conditions to gain insights into how weather impacts fare prices. Additionally, the project will develop a machine learning model using Python to predict cab fares for various weather conditions. The outcome of the project will be a valuable tool for both passengers and cab service providers, enabling them to estimate fares more accurately based on weather forecasts.
